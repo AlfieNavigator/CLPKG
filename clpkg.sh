@@ -1,4 +1,5 @@
 #!/bin/bash
+echo 'CLPKG es un gestor de instalacion de programas de bajo nivel desarrollado en Chile'
 git clone https://github.com/AlfieNavigator/CLPKG.git
 cd 'CLPKG'
 echo 'Seleccione un programa'
